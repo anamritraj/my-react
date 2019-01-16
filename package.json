@@ -1,0 +1,11 @@
+{
+  "name": "my-react",
+  "version": "1.0.0",
+  "description": "My implementation of the React.js Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anand Amrit Raj",
+  "license": "MIT"
+}
