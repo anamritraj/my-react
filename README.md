@@ -1,4 +1,7 @@
-# My React
+<p align="center"><img width="50px" src="https://user-images.githubusercontent.com/11889942/51274497-6002f800-19f5-11e9-8574-4ebfce1611bb.png"/></p>
+
+<h1 align="center">My React</h1> 
+
 > A super simple implemetation of [ReactJS](https://github.com/facebook/react) for understanding how ReactJS works under the hood.
 
 
