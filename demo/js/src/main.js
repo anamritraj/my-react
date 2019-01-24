@@ -1,14 +1,6 @@
 /** @jsx MyReact.createElement */
 const MyReact = getMyReact();
 
-const MyTodos = [
-  "Implement React render",
-  "Implement React component",
-  "Implement React fiber",
-  "Replace original React",
-  "Conquer the world!"
-];
-
 const TEXT_ELEMENT = "TEXT_ELEMENT";
 
 const myElement = (

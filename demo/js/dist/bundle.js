@@ -2,7 +2,6 @@
 
 /** @jsx MyReact.createElement */
 var MyReact = getMyReact();
-var MyTodos = ["Implement React render", "Implement React component", "Implement React fiber", "Replace original React", "Conquer the world!"];
 var TEXT_ELEMENT = "TEXT_ELEMENT";
 var myElement = MyReact.createElement("div", null, MyReact.createElement("ul", null, MyReact.createElement("li", null, "Implement React render"), MyReact.createElement("li", null, "Implement React component"), MyReact.createElement("li", null, "Implement React fiber"), MyReact.createElement("li", null, "Replace original React"), MyReact.createElement("li", null, "Conquer the world!")));
 MyReact.render(myElement, document.getElementById("my-react-app")); // Probably need to build everything into a single file.
